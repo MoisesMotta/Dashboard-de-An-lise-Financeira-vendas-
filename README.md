@@ -4,11 +4,11 @@ Dashboard de Análise Financeira (vendas) / Power BI / Figma 👨‍💻📊
 
 ---
 
-![capa](dash4.jfif)
+![capa](capa.jfif)
 
-![dash1](dash4.jfif)
+![dash1](dash1.jfif)
 
-![dash2](dash4.jfif)
+![dash2](dash2.jfif)
 
 
 ## Organização do Dashboard
@@ -57,7 +57,7 @@ Uma das vantagens desse dashboard é a flexibilidade de design: ele pode ser aju
 
 ## Dashboard claro
 
-![Filtros Retráteis](dash4.jfif)
+![Filtros Retráteis](dash3.jfif)
 
 ![Filtros Retráteis](dash4.jfif)
 
